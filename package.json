@@ -1,0 +1,24 @@
+{
+  "name": "cabugnason.pritz",
+  "version": "1.0.0",
+  "description": "Activities in Classroom",
+  "keywords": [
+    "activity",
+    "sia",
+    "sy25-26"
+  ],
+  "homepage": "https://github.com/pritzcabugnason-ctrl/activity_sia#readme",
+  "bugs": {
+    "url": "https://github.com/pritzcabugnason-ctrl/activity_sia/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pritzcabugnason-ctrl/activity_sia.git"
+  },
+  "author": "Cabugnason, Pritz Rona",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
